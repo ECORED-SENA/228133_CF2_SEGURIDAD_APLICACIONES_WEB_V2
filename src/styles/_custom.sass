@@ -2,18 +2,130 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 17%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 55%
+    right: 10%
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+
+.slide-a-edit
+  background-color: #E5FDF3
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: #6ACEAE
+    opacity: 1
+  .slyder-a__bullets
+    .slyder-a__bullets__item
+      border: none
+      background-color: #B0C0D2
+      &.slyder-a__bullets__item--active
+        background-color: #6ACEAE
+        color: white !important
+
+
+.bg-t4
+  background-image: url('../assets/curso/temas/tema4/bg.svg')
+  background-size: cover
+  background-position: center bottom
+.bg-cta 
+  background: linear-gradient(180deg, #FEEEDD 0%, #F38E1E 100%)  
+.bg-cta2
+  background: linear-gradient(0deg, rgba(17,31,79,1) 0%, rgba(46,82,212,1) 100%)  
+
+.bg-1
+  background-color: #C3EBDF
+.bg-2
+  background-color: #002856  
+.bg-3
+  background-color: #6ACEAE  
+.bg-4
+  background-color: #F6F6F6  
+.bg-5
+  background-color: #FFF4D6  
+.bg-6
+  background-color: #DFE4FA
+.bg-7
+  background: #E5FDF3
+.bg-8
+  background: linear-gradient(180deg, rgba(255,255,255,.73) 0%, rgba(210,240,231,1) 100%)  
+.bg-9
+  background-color: #A6E6CA  
+.bg-10
+  background-color: #FFFCF4  
+.bg-gradient
+  position: relative
+  &::after
+    content: ''
+    position: absolute
+    top: 0
+    left: -3rem
+    height: 100%
+    width: calc(100% + 6rem)
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(213,250,238,1) 32%, rgba(213,250,238,1) 67%, rgba(255,255,255,1) 100%)
+
+
+.border-t-r
+  border-top-right-radius: 109px    
+.tarj-t1
+  background-color: #B3C0F3
+  border: 2px solid #899EF0
+.w-fit
+  width: fit-content  
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.tabs-a__tab
+  background-color: #C3EBDF
+
+
+.tarjeta-hover-color
+  border-radius: 5px
+  overflow: hidden
+  margin-bottom: 1rem
+  cursor: pointer
+  .header-img
+    background-color: #294DDC
+    text-align: center
+    transition: all .2s linear
+    img
+      margin-bottom: 1rem
+    h3
+      display: inline
+      padding: .5rem 1.5rem
+      margin-right: auto
+      margin-left: auto
+  .body-text
+    background-color: #E5EAFF
+    transition: all .2s linear
+  &:hover
+    .header-img
+      background-color: #6ACEAE
+    .body-text
+      background-color: #C7EDE0
+.tarjeta-hover-up
+  background-color: #E5EAFF
+  border-radius: 10px
+  width: 100%
+  margin-bottom: 2rem
+  position: relative
+  transition: all .3s
+  top: 0
+  right: 0
+.content-tj-hover:hover
+  .tarjeta-hover-up
+    background-color: #A6E6CA
+    top: -1rem
+    right: -1rem
