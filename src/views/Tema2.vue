@@ -133,7 +133,6 @@
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-6.col-lg-4.px-md-3.position-relative.mb-3.mb-lg-0
-        .indicador--hover
         .tarjeta-hover-color(data-aos="fade-right")
           .header-img.p-3.p-lg-5
             img.mx-auto(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 105px;")

@@ -68,28 +68,28 @@
         .d-flex.align-items-center.mb-3.w-100.bg-5
           img(src="@/assets/curso/temas/tema5/img-2.svg" style="max-width: 190px")
           .p-3.mb-0
-            h5 Domain Name Protocol
+            h5 #[em Domain Name Protocol]
             p.mb-0 (Protocolo de nombres de dominio).
         .d-flex.align-items-center.mb-3.w-100.bg-5
           img(src="@/assets/curso/temas/tema5/img-3.svg" style="max-width: 190px")
           .p-3.mb-0 
-            h5 Exterior Gateway Protocol
+            h5 #[em Exterior Gateway Protocol]
             p.mb-0 (Protocolo de pasarela exterior).
       .col-12.col-lg-6.px-3(data-aos="fade-left")
         .d-flex.align-items-center.mb-3.w-100.bg-5
           img(src="@/assets/curso/temas/tema5/img-4.svg" style="max-width: 190px")
           .p-3.mb-0 
-            h5 File Transfer Protocol
+            h5 #[em File Transfer Protocol]
             p.mb-0 (Protocolo de transferencia de archivos).
         .d-flex.align-items-center.mb-3.w-100.bg-5
           img(src="@/assets/curso/temas/tema5/img-5.svg" style="max-width: 190px")
           .p-3.mb-0 
-            h5 Name/Finger Protocol
+            h5 #[em Name/Finger Protocol]
             p.mb-0 (Protocolo de nombres/finger).
         .d-flex.align-items-center.mb-3.w-100.bg-5
           img(src="@/assets/curso/temas/tema5/img-6.svg" style="max-width: 190px")
           .p-3.mb-0 
-            h5 Telnet Protocol
+            h5 #[em Telnet Protocol]
             p.mb-0 (Protocolo Telnet).
 
 

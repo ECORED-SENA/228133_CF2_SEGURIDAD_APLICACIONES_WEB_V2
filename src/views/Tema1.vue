@@ -38,8 +38,9 @@
     
     .titulo-sexto.color-acento-contenido.mb-0(data-aos="fade") 
       p.mb-0 #[b Figura 1.] Ciberseguridad
-    img.mb-5.d-none.d-md-block(src="@/assets/curso/temas/tema1/img-3.jpg" data-aos="fade-down" alt="La figura representa los elementos de la ciberseguridad, en la que se incluyen la gestión de vulnerabilidades, el hacking ético, la crítica ortográfica, la protección de datos, la seguridad en la nube y la seguridad en aplicaciones web.")
-    img.mb-5.d-block.d-md-none(src="@/assets/curso/temas/tema1/img-3-movil.png" data-aos="fade-down" alt="La figura representa los elementos de la ciberseguridad, en la que se incluyen la gestión de vulnerabilidades, el hacking ético, la crítica ortográfica, la protección de datos, la seguridad en la nube y la seguridad en aplicaciones web.")
+    .row.justify-content-center 
+      .col-lg-6.col-md-10
+        img.mb-5.d-none.d-md-block(src="@/assets/curso/temas/tema1/fig1.png" data-aos="fade-down" alt="La figura representa los elementos de la ciberseguridad, en la que se incluyen la gestión de vulnerabilidades, el hacking ético, la crítica ortográfica, la protección de datos, la seguridad en la nube y la seguridad en aplicaciones web.")
 
     p.mb-4(data-aos="fade") Es importante tener en cuenta que dentro de la ciberseguridad los principios de seguridad son la confidencialidad, integridad y disponibilidad.
 

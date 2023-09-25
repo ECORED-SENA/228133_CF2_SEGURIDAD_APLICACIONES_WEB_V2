@@ -140,7 +140,8 @@ export default {
       referencia:
         'Gestión del riesgo en la seguridad informática. (2005). Amenazas y vulnerabilidades.',
       tipo: 'Artículo',
-      link: 'https://acortar.link/DxVxwr',
+      link:
+        'https://protejete.wordpress.com/gdr_principal/amenazas_vulnerabilidades/',
     },
     {
       tema: '3. Auditoría infraestructura tecnológica',
@@ -153,27 +154,31 @@ export default {
       tema: '3. Auditoría infraestructura tecnológica',
       referencia: 'Congreso de Colombia. (2009). Ley 1273 de 2009.',
       tipo: 'Página web',
-      link: 'https://acortar.link/rY3Hyl',
+      link:
+        'https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
     },
     {
       tema: '3. Auditoría infraestructura tecnológica',
       referencia: 'Congreso de Colombia. (2012). Ley 1581 de 2012.',
       tipo: 'Página web',
-      link: 'https://acortar.link/DB9gGZ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       tema:
         '4. Informe o políticas de sistema de gestión de seguridad de la información o afines',
       referencia: 'DNP. (2011). Conpes 3701 de 2011.',
       tipo: 'Página web',
-      link: 'https://acortar.link/vVJlX8',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
     },
     {
       tema:
         '4. Informe o políticas de sistema de gestión de seguridad de la información o afines',
       referencia: 'DNP. (2016). Conpes 3854 de 2016.',
       tipo: 'Página web',
-      link: 'https://acortar.link/gtUi1u',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf',
     },
     {
       tema:
@@ -242,7 +247,7 @@ export default {
       referencia:
         'Congreso de Colombia, C. (2012). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales.',
       link:
-        'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       referencia: 'DNP. (2011). Conpes 3701.',
