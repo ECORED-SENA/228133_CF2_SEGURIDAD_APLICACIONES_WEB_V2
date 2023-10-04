@@ -185,7 +185,7 @@ export default {
         '4. Informe o políticas de sistema de gestión de seguridad de la información o afines',
       referencia: 'OAS. (2001). Convenio de Budapest.',
       tipo: 'Página web',
-      link: 'https://acortar.link/lqGOIH',
+      link: 'https://www.oas.org/juridico/english/cyb_pry_convenio.pdf',
     },
   ],
   glosario: [
