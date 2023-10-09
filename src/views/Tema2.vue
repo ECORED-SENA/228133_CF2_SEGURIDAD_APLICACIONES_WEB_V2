@@ -47,7 +47,7 @@
               h3.mb-1 Norma ISO 27005
               p.mb-0 La prevención de los riesgos se origina del análisis de las amenazas y vulnerabilidades que se detectan en la organización. La norma ISO 27005 contiene recomendaciones y normas que se deben llevar a cabo o tener en cuenta en los proyectos de aplicaciones web y que sirve de control ante futuras amenazas o riesgos informáticos.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-negro.px-4(href="https://sisteseg.com/blog/wp-content/uploads/2018/11/Metodologia-para-Gesti%C3%B3n-de-Riesgos-V-1.0.pdf" target="_blank")
+              a.boton.color-acento-botones.texto-negro.px-4(href="https://gmas2.envigado.gov.co/gmas/downloadFile.public?repositorioArchivo=000000001071&ruta=/documentacion/0000001359/0000000107" target="_blank")
                 span Ir al enlace
 
     .row.align-items-center.mb-5
@@ -127,6 +127,7 @@
         .titulo-sexto.color-acento-contenido.mb-0
           p.mb-0 #[b Figura 5.] Ciclo PHVA
         img.mx-auto(src="@/assets/curso/temas/tema2/img-7.svg" alt="La figura representa el ciclo PHVA. En primer lugar, tenemos Planificar, que incluye establecer el contexto, evaluar el riesgo, planificar el tratamiento y aceptar los riesgos. En segundo lugar, está Hacer, donde se implementa el plan de tratamiento de riesgos. En tercer lugar, tenemos Verificar, que consiste en monitorear y revisar continuamente los riesgos. Finalmente, en Actuar, se busca mantener y mejorar el proceso de gestión del riesgo.")
+        figcaption.mt-3 Nota. Adaptado de Organización Internacional de Normalización. (2015).
 
     p(data-aos="fade") En las políticas lo primero será determinar el tratamiento que se le dará a cada uno de los riesgos identificados en la aplicación, donde se puede tomar la decisión de aceptarlos, transferirlos o ejercer controles apropiados según el nivel de riesgo. Posteriormente, habrá que determinar qué controles se pueden ejercer, una vez determinada la causa que los origina. 
     p.mb-4(data-aos="fade") De acuerdo con lo anterior, los controles pueden ser de tipo:

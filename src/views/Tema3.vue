@@ -10,7 +10,7 @@
     .row.align-items-center.mb-5
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         p Las auditorías informáticas internas o externas siempre son recomendadas para prevenir pérdidas o fugas de información y económicas en todos los aspectos (sanciones, ventas, ingresos, clientes, entre otros) para la organización; por ello, en cualquier infraestructura tecnológica estas auditorías se deben realizar al #[em hardware] por los requerimientos técnicos de la aplicación, en este caso, y el #[em software] para el análisis de vulnerabilidades o actualizaciones a los componentes de este garantizando la seguridad y confianza en las aplicaciones web. 
-        p Se deben tener en cuenta los aspectos técnicos de la aplicación, sin embargo se han elegido cuatro tipos de auditorías en aplicaciones web, a saber:
+        p Se deben tener en cuenta los aspectos técnicos de la aplicación; sin embargo, se han elegido cuatro tipos de auditorías en aplicaciones web, a saber:
       .col-lg-4.col-9.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         img.mx-auto(src="@/assets/curso/temas/tema3/img-1.jpg")
 

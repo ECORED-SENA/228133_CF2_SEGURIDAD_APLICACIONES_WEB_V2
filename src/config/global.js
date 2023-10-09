@@ -108,11 +108,7 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/CF02_228133_DU.zip',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -202,7 +198,7 @@ export default {
     {
       termino: 'Evidencia digital',
       significado:
-        'también conocida como evidencia computacional, única y conocida como: registros o archivos generados por computador u otro medio equivalente, registros o archivos no generados sino simplemente almacenados por o en computadores o medios equivalentes y registros o archivos híbridos que incluyen tanto registros generados por computador o medio equivalente como almacenados en los mismos (FGN, 2009).',
+        'también conocida como evidencia computacional, única y conocida como: registros o archivos generados por computador u otro medio equivalente, registros o archivos no generados sino simplemente almacenados por o en computadores o medios equivalentes y registros o archivos híbridos que incluyen tantos registros generados por computador o medio equivalente como almacenados en los mismos (FGN, 2009).',
     },
     {
       termino: '<em>Log</em>',
